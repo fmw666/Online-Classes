@@ -41,9 +41,10 @@
 + 1989 年的圣诞节，一个名叫 Guido von Rossum 的荷兰程序员为了打发无聊的圣诞节假期开始写 Python 语言的编译/解释器。
 
 <div align="center">
-    <img src="pics/Python.jpg" width=400>
+    <img src="pics/python.jpg" width=400>
 </div>
 
 &emsp;&emsp;Python 的特点：简洁、优美。
 
 &emsp;&emsp;现在广泛应用于图形图像、机器学习、人工智能、大数据等方向领域。
+
