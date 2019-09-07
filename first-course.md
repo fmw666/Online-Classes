@@ -5,3 +5,35 @@
 <div align="center">
     <img src="pics/rhythm.gif" width=400>
 </div>
+
++ Python 属于一种编程语言
+
+<div align="center">
+    <img src="pics/pl.jpg" width=400>
+</div>
+
++ 交朋友式学习
+
+<div align="center">
+    <img src="pics/friend.jpg" width=200>
+</div>
+
++ （下图为计算机硬件）
+
+<div align="center">
+    <img src="pics/hardware.jpg" width=400>
+</div>
+
++ 操纵计算机底层硬件使用的是机器语言
+
+<div align="center">
+    <img src="pics/machine-l.jpg" width=400>
+</div>
+
+[计算机语言发展介绍](https://github.com/fmw666/Computer-Organization#-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E8%BD%AF%E4%BB%B6)
+
++ Matlab，由 C语言编写而成。对应执行 Matlab 程序时首先将其翻译成对应的 C语言代码，再将 C语言代码翻译成汇编代码，最后将汇编代码翻译成机器语言指令代码。
+
+<div align="center">
+    <img src="pics/matlab.jpg" width=400>
+</div>
