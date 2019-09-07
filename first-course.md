@@ -4,30 +4,35 @@
 
 <div align="center">
     <img src="pics/rhythm.gif" width=400>
+    <br>
 </div>
 
 + Python 属于一种编程语言
 
 <div align="center">
     <img src="pics/pl.jpg" width=400>
+    <br>
 </div>
 
 + 交朋友式学习
 
 <div align="center">
     <img src="pics/friend.jpg" width=200>
+    <br>
 </div>
 
 + （下图为计算机硬件）
 
 <div align="center">
     <img src="pics/hardware.jpg" width=400>
+    <br>
 </div>
 
 + 操纵计算机底层硬件使用的是机器语言
 
 <div align="center">
     <img src="pics/machine-l.jpg" width=600>
+    <br>
 </div>
 
 [计算机语言发展介绍](https://github.com/fmw666/Computer-Organization#-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E8%BD%AF%E4%BB%B6)
@@ -36,12 +41,14 @@
 
 <div align="center">
     <img src="pics/matlab.jpg" width=400>
+    <br>
 </div>
 
 + 1989 年的圣诞节，一个名叫 Guido von Rossum 的荷兰程序员为了打发无聊的圣诞节假期开始写 Python 语言的编译/解释器。
 
 <div align="center">
     <img src="pics/python.jpg" width=400>
+    <br>
 </div>
 
 &emsp;&emsp;Python 的特点：简洁、优美。
