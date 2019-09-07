@@ -1,7 +1,7 @@
 ## 🔍 目录导航页
 
-+ ### 适应节奏和讲课方式
+### 第一节课：Python 语言简介
++ [上课文档](first-course.md)
++ [上课视频](first-video.md)
 
-<div align="center">
-    <img src="pics/rhythm.gif" width=400>
-</div>
+
