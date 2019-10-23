@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% block title %}博客专栏{% endblock %}
+
+{% block content %}
+<div class="ui very padded text segment" style="width:80%;">
+    <h1 align="center">我的博客</h1>
+    <div class="ui items">
+        文章目录：
+        <div class="item">
+            <ul>
+                {% for blog in blogs %}
+                    <li><a href="{{ blog.id }}">{{ blog.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}
