@@ -8,7 +8,7 @@
 
 ### *第一周*
 
-1. Python是啥子
+1. **Python是啥子**
     
     + 视频链接：[网易云课堂，戳我跳转](https://study.163.com/course/courseMain.htm?courseId=1209393836&_trace_c_p_k2_=53c98b2bc5fa4b8889a8d24eaf6ddddb)
     
@@ -16,45 +16,45 @@
 
         <img src="https://i.loli.net/2019/10/24/D6SdJV3QpWHlK8f.png">
 
-1. Python的安装及环境变量的配置
+1. **Python的安装及环境变量的配置**
     
     + Python安装
 
-        教程链接：[我自己写的文档，戳我跳转](https://github.com/fmw666/Python/blob/master/step1-Python-basis/Part-One.md#-windows-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85)
+        + 教程链接：[我自己写的文档，戳我跳转](https://github.com/fmw666/Python/blob/master/step1-Python-basis/Part-One.md#-windows-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85)
 
     + Python环境变量配置
         
-        教程链接：[我自己写的文档，戳我跳转](https://github.com/fmw666/Python/blob/master/step1-Python-basis/Part-One.md#-%E9%85%8D%E7%BD%AE-python-%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F)
+        + 教程链接：[我自己写的文档，戳我跳转](https://github.com/fmw666/Python/blob/master/step1-Python-basis/Part-One.md#-%E9%85%8D%E7%BD%AE-python-%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F)
 
-1. Python编译器的选择及其安装
+1. **Python编译器的选择及其安装**
 
-    教程链接：[我自己写的文档，戳我跳转](https://github.com/fmw666/Python/blob/master/step1-Python-basis/VS-Code%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md#-vs-code-%E5%AE%89%E8%A3%85%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
+    + 教程链接：[我自己写的文档，戳我跳转](https://github.com/fmw666/Python/blob/master/step1-Python-basis/VS-Code%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md#-vs-code-%E5%AE%89%E8%A3%85%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
 
-1. 运行第一个Python程序
+1. **运行第一个Python程序**
 
-    教程链接：[我自己写的文档，戳我跳转](https://github.com/fmw666/Python/blob/master/step1-Python-basis/Part-One.md#3-%E5%86%99%E5%87%BA%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AApython%E7%A8%8B%E5%BA%8F-1)
+    + 教程链接：[我自己写的文档，戳我跳转](https://github.com/fmw666/Python/blob/master/step1-Python-basis/Part-One.md#3-%E5%86%99%E5%87%BA%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AApython%E7%A8%8B%E5%BA%8F-1)
 
-    教程链接：[廖雪峰Python学习教程，戳我跳转](https://www.liaoxuefeng.com/wiki/1016959663602400/1017032074151456)
+    + 教程链接：[廖雪峰Python学习教程，戳我跳转](https://www.liaoxuefeng.com/wiki/1016959663602400/1017032074151456)
 
 ### *第二周*
 
-1. 数据类型和变量
+1. **数据类型和变量**
     
-    教程链接：	https://www.liaoxuefeng.com/wiki/1016959663602400/1017063826246112
+    + 教程链接：[廖雪峰Python学习教程，戳我跳转](https://www.liaoxuefeng.com/wiki/1016959663602400/1017063826246112)
 
-1. 字符串和编码
+1. **字符串和编码**
     
-    以下均为上述给出廖雪峰的Python教程网站
+    + 以下均为上述给出廖雪峰的Python教程网站
 
-1. 数据类型list、tuple、dict、set
+1. **数据类型list、tuple、dict、set**
 
-1. 结构化语句
+1. **结构化语句**
     
     1. 判断语句
     
     1. 循环语句
 
-1. 函数、装饰器、模块、类和对象
+1. **函数、装饰器、模块、类和对象**
 
     1. 函数定义及使用
     
@@ -68,11 +68,11 @@
 
 ### *第三周*
 
-1. 函数、模块、类和对象
+1. **函数、模块、类和对象**
 
-    上周的这部分内容继续深入和熟悉～
+    + 上周的这部分内容继续深入和熟悉～
 
-1. 利用Python操纵MySQL数据库
+1. **利用Python操纵MySQL数据库**
 
     1. 什么是数据库
     
@@ -80,7 +80,7 @@
     
     1. MySQL数据库的基本用法
 
-1. Python网络编程
+1. **Python网络编程**
     
     1. 计算机网络
     
@@ -90,15 +90,17 @@
 
 ### *第四周*
 
-1. 函数、模块、类和对象
+1. **函数、模块、类和对象**
     
-    上周的这部分内容继续深入和熟悉～
+    + 上周的这部分内容继续深入和熟悉～
 
-1. 计算机网络
+1. **计算机网络**
 
-1. 前端网页制作
+1. **前端网页制作**
 
-1. Python程序设计（第四周单独安排，这个很重要）
+1. **Python程序设计（第四周单独安排，这个很重要）**
+
+---
 
 <div align="right">
     <h3>第二个月及以后——Django框架学习（网站开发）</h3>
@@ -108,7 +110,7 @@
 
 ### *第一周*
 
-1. Python web框架——Django框架的使用
+1. **Python web框架——Django框架的使用**
     
     1. Django是什么？
     
@@ -118,7 +120,7 @@
     
     1. Django的配置
 
-1. Django的基本操作
+1. **Django的基本操作**
     
     1. 项目创建及配置
     
@@ -138,12 +140,12 @@
 
 ### *第二周*
 
-1. Django数据库的数据提取及操作
+1. **Django数据库的数据提取及操作**
 
-2. 继续熟悉之前的，因为网站的基本搭建已经ok了，需要反复掌握熟练
+2. **继续熟悉之前的，因为网站的基本搭建已经ok了，需要反复掌握熟练**
 
-3. Python编程及算法
+3. **Python编程及算法**
 
 ### *第三周*
 
-1. 继续熟悉网站的搭建，一些后续遇到的问题我后面再补充，因为不用刻意去学，只需要我们在遇到的时候去解决它们。
+1. **继续熟悉网站的搭建，一些后续遇到的问题我后面再补充，因为不用刻意去学，只需要我们在遇到的时候去解决它们。**
