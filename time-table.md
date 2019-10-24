@@ -1,5 +1,5 @@
 <div align="center">
-    <h2><a>「 Python学习进度」</a></h2>
+    <h2><a>「 Python学习进度 」</a></h2>
 </div>
 
 <div align="right">
